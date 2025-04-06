@@ -6,7 +6,7 @@ Tired of manually scavenging Reddit for fresh memes? Let MemeBot be your loyal s
 
 1. **Clone this repo** (unless you enjoy typing everything manually, you masochist):
 ```bash
-git clone https://github.com/LilyAshford/redditmemebot.git
+git clone https://github.com/LilyAshford/Reddit_Meme_Bot.git
 cd redditmemebot
 ```
 
