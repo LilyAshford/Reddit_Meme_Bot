@@ -1,0 +1,6 @@
+praw
+nltk
+sqlalchemy
+telebot
+matplotlib
+pillow
